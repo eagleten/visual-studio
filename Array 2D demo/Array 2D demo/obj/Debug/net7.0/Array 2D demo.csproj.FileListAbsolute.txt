@@ -1,0 +1,15 @@
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.csproj.AssemblyReference.cache
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.AssemblyInfoInputs.cache
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.AssemblyInfo.cs
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.csproj.CoreCompileInputs.cache
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/bin/Debug/net7.0/Array 2D demo
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/bin/Debug/net7.0/Array 2D demo.deps.json
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/bin/Debug/net7.0/Array 2D demo.runtimeconfig.json
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/bin/Debug/net7.0/Array 2D demo.dll
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/bin/Debug/net7.0/Array 2D demo.pdb
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.dll
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/refint/Array 2D demo.dll
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.pdb
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/Array 2D demo.genruntimeconfig.cache
+/Users/robertlittle/Projects/Array 2D demo/Array 2D demo/obj/Debug/net7.0/ref/Array 2D demo.dll
